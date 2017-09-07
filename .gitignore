@@ -320,14 +320,3 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
-# Build artifacts
-BoolHolder/x64/
-Cpp11MoveAndForward/x64/
-Cpp11ProgramminTechniques/x64/
-Cpp11ProgrammingTechniques.opensdf
-Cpp11ProgrammingTechniques.sdf
-Cpp11Threads/x64/
-InitializerList/x64/
-MoreMovingNoCopying/x64/
-TieExperiment/x64/
-
